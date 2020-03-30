@@ -1,5 +1,6 @@
 # Mulitilingual-Toxic-Comment-Classification
-A BERT model to identify toxicity comments across multiple languages trained on TPUs
+![](https://github.com/IIplutocrat45II/Mulitilingual-Toxic-Comment-Classification/blob/master/images/index.jpg)
+<br>A BERT model to identify toxicity comments across multiple languages trained on TPUs
 
 NOTE: The model is still in fintuning stage 
 
@@ -14,4 +15,4 @@ It only takes one toxic comment to sour an online discussion. The Conversation A
 
 ## Progress
 
-The model was able to acheive a **0.9001 accuracy score** on the multilingual test.
+Fintuned the model and was able to increase the accuracy from **0.8249** to **0.9001** on the multilingual test data.
